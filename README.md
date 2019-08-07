@@ -24,5 +24,7 @@ From the repo, following Python notebook files can be used:
 
 ## Setting up Python Environment
 
-Refer to link https://github.com/amitksinhaz/BikeSharingPrediction.git
+Refer to link https://github.com/udacity/deep-learning-v2-pytorch/blob/master/README.md
+
+In summary, install the miniconda environment followed by the machine learning libraries including PyTorch
 
