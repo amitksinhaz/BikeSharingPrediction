@@ -15,7 +15,7 @@ The problem description and solution is provided in the BikeSharing folder. To g
 ## Getting Started
 
 * git clone https://github.com/amitksinhaz/BikeSharingPrediction.git
-* cd <project directory>
+* cd project-directory
   
 From the repo, following Python notebook files can be used:
 * jupyter notebook Predicting_bike_sharing_data.ipynb
