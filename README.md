@@ -18,9 +18,8 @@ The problem description and solution is provided in the BikeSharing folder. To g
 * cd <project directory>
   
 From the repo, following Python notebook files can be used:
-
-* Predicting_bike_sharing_data.ipynb: to get started
-* my-answers.ipynb: answer to the problem
+* jupyter notebook Predicting_bike_sharing_data.ipynb
+* jupyter notebook my-answers.ipynb
 
 ## Setting up Python Environment
 
